@@ -1,0 +1,10 @@
+{
+  "name": "ExpiryBox",
+  "description": "Zero-effort product expiry, best-before, freshness and reminder tracking web application.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
